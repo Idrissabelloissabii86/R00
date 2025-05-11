@@ -2,8 +2,8 @@ Programme Quiz interatif Version 1.0 11-05-205
 ========================================================
 Description
 --------------------------------------------------------
-Ce programme est un jeu de quiz interactif qui evalue vos
-connaissances sur les différentes commandes du niveaux 1 (C00)
+Ce programme est un jeu de quiz interactif écrit en bash qui
+evalue vos connaissances sur les différentes commandes du niveaux 1 (C00)
 de la piscine codeloccol (4e Cohorte).
 =========================================================
 Instruction
